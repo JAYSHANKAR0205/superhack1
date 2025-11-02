@@ -1,0 +1,4 @@
+asset_id,name,category,owner,owner_email,last_seen,location,notes
+A-1001,Dell XPS 13,laptop,Jane Doe,jane@example.com,2024-09-01T09:15:00,HQ - 5th Floor,Assigned to Jane
+A-1002,iPhone 12,phone,John Smith,john@example.com,2024-08-21T17:30:00,Remote,Possibly lost during travel
+A-1003,LG Monitor,monitor,Alice Jones,alice@example.com,2024-07-11T12:00:00,Office,In storage

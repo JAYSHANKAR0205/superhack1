@@ -1,0 +1,16 @@
+{
+  "name": "beckend",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "dependencies": {
+    "@radix-ui/react-alert-dialog": "^1.1.15",
+  "react-scripts": "^0.0.0"
+},
+
+"scripts": {
+  "dev": "nodemon index.js",
+  "start": "node index.js"
+}
+
+}

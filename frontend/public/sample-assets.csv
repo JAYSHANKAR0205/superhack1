@@ -1,0 +1,9 @@
+asset_id,owner,location,last_seen,status,value,category,model,serial_number
+LPT-001,Sarah Johnson,Building A Floor 3,2024-01-15,Active,1200,Laptop,Dell XPS 15,DL123456
+LPT-002,Mike Chen,Building B Floor 1,2023-12-20,Missing,1500,Laptop,MacBook Pro,MP789012
+MON-001,Lisa Park,Building A Floor 2,2024-01-10,Recovered,400,Monitor,Dell UltraSharp,US345678
+LPT-003,John Smith,Building C Floor 4,2024-01-18,Active,1100,Laptop,Lenovo ThinkPad,LT456789
+PHN-001,Emma Davis,Building A Floor 1,2023-11-30,Missing,800,Phone,iPhone 15,IP987654
+MON-002,David Wilson,Building B Floor 3,2024-01-05,Active,450,Monitor,LG UltraWide,LG234567
+TBL-001,Amy Chen,Building D Floor 2,2023-12-25,Missing,600,Tablet,iPad Pro,TB123456
+LPT-004,Robert Brown,Building A Floor 5,2024-01-12,Recovered,1300,Laptop,HP EliteBook,HP345678
